@@ -14,7 +14,7 @@ const About = () => {
                     <p> My name is <strong>Jaya,</strong></p>
                     <p> I have completed by degree in BTech(CSE) from Lovely professional university,
                         punjab by year 2021.</p>
-                    <p className="text-justify">I am a full stack developer with <strong> 1 year of experiance </strong>
+                    <p >I am a full stack developer with <strong> 1 year of experiance </strong>
                         in html, css, sass, reactjs, redux, nodejs, socketjs, spring boot, spring mvc, mysql and
                         Spring data jpa, Along with development  bugs fixing, testing and deployment are also my skills.
                         Many web hosting platforms that i had worked on are Amazon web services, Google cloud platform, Heroku,

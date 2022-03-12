@@ -11,8 +11,8 @@ const Content = () => {
           wrapper="h3"
         />
         <div className="mt-4">
-          <button className="btn mr-2 btn-outline-warning">Hire me</button>
-          <button className="btn">Resume</button>
+          <button className="btn mr-2 mb-2 btn-outline-warning">Hire me</button>
+          <button className="btn mb-2">Resume</button>
         </div>
       </div>
       {/* <div className="picture">
