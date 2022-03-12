@@ -7,14 +7,12 @@ const About = () => {
         <>
             <h5 className="text-center mt-4"><strong>About Me</strong></h5>
             <div className="about col-12 row" id="about">
-                <div className="col-12 col-md-4 profile">
-
+                <div className="col-12 col-md-4 profile d-none d-sm-block">
                 </div>
-                <div className="col-12 col-md-8 p-4 ">
+                <div className="col-12 col-md-8 p-4">
                     <p> My name is <strong>Jaya,</strong></p>
-                    <p> I have completed by degree in BTech(CSE) from Lovely professional university,
-                        punjab by year 2021.</p>
-                    <p >I am a full stack developer with <strong> 1 year of experiance </strong>
+                    <p className="text-justify"> I have completed by degree in BTech(CSE) from Lovely professional university,
+                        punjab by year 2021.I am a full stack developer with <strong> 1 year of experiance </strong>
                         in html, css, sass, reactjs, redux, nodejs, socketjs, spring boot, spring mvc, mysql and
                         Spring data jpa, Along with development  bugs fixing, testing and deployment are also my skills.
                         Many web hosting platforms that i had worked on are Amazon web services, Google cloud platform, Heroku,
